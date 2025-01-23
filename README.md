@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sayan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning BCA
+- 🌱 I’ve completed BCA.Now I am pursuing MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (my contact 8918216876)
 
