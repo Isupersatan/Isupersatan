@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm Sayan Pal</h1>
-<h3 align="center">Aspiring Full Stack Developer | MCA Student at KIIT | Passionate Coder & Motorcycle Explorer</h3>
+<h3 align="center">Aspiring Full Stack Developer | MCA Graduate | Passionate Coder & Motorcycle Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Isupersatan&label=Profile%20views&color=0e75b6&style=flat" alt="Isupersatan" />
