@@ -70,9 +70,17 @@ MCA graduate with a strong foundation in computer applications, seeking an entry
 
 ---
 
+📄 **Curriculum Vitae**
+- 📥 [My CV](https://drive.google.com/file/d/1ui2gZODi2_FIpDneczJo6p2wzja--bYu/view?usp=sharing)
+
+---
+
 📫 **Contact Me**
 - 📧 Email: [sayansuper330@gmail.com](mailto:sayansuper330@gmail.com)  
-- 🌐 GitHub: [github.com/Isupersatan](https://github.com/Isupersatan)  
+- 🌐 GitHub: [github.com/Isupersatan](https://github.com/Isupersatan)
+- 💼 LinkedIn: [linkedin.com/in/sayan-pal-1bb6a631a](https://www.linkedin.com/in/sayan-pal-1bb6a631a/)  
+- 🌍 Portfolio: [your-portfolio-url.com](https://isupersatan.github.io/)
+-  
 - 📍 Birbhum, West Bengal, India
 
 ---
