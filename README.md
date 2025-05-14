@@ -49,7 +49,7 @@ MCA graduate with a strong foundation in computer applications, seeking an entry
 ---
 
 🎓 **Education**
-- 🧑‍💻 MCA, KIIT University — *CGPA: 7.63* (Till 3rd Sem)  
+- 🧑‍💻 MCA, KIIT University — *CGPA: 7.94*  
 - 👨‍🎓 BCA, BCET Durgapur (MAKAUT) — *CGPA: 8.95*  
 - 📘 Higher Secondary, Birbhum Zilla School — *79.6%*  
 - 📗 Secondary, Birbhum Zilla School — *73%*  
