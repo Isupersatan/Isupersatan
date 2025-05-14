@@ -8,11 +8,24 @@
 ---
 
 🎯 **Career Objective**  
-Aspiring MCA student with a strong foundation in computer applications, seeking an entry-level opportunity to apply technical skills, collaborate on innovative projects, and grow professionally in the field of software and web development.
+MCA graduate with a strong foundation in computer applications, seeking an entry-level opportunity to apply technical skills, collaborate on innovative projects, and grow professionally in the field of software and web development.
 
 ---
 
 💻 **Projects**
+- 🩺 [**Docify – AI-Powered Health Prediction Web App**](https://github.com/Isupersatan/docify):  
+  An intelligent full-stack web application for heart disease prediction and doctor consultation.
+  - **Frontend:** HTML, CSS, JavaScript  
+  - **Backend:** Python (Flask)  
+  - **ML Model:** RandomForestClassifier with Scikit-learn  
+  - **Database:** SQLite  
+  - **Features:**
+    - Secure user authentication (Patient/Doctor roles)
+    - Heart disease prediction with probability and risk levels
+    - Medical report upload and management
+    - Doctor recommendation system
+    - Appointment request and email-based approval system
+
 - 🎬 [**Movie Ticket Booking System**](#):  
   Built a fully functional movie booking web app using:
   - Frontend: HTML, CSS, Bootstrap  
